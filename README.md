@@ -19,6 +19,6 @@ Here is another: https://www.linkedin.com/posts/joshua-alex-meza_youtube-clone-h
 ---------------------------------------------------------------------------------------------------------
 
 DISCLAIMER 
-I used images I found randomly on google and youtube for this projet. 
-Credit goes to those people.
+I used images I found randomly on google and youtube for this project. 
+Content credit goes to those creators.
 I also mix and matched images from different users as it was just rather fun to expermiment with the UI.
