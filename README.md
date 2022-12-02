@@ -11,6 +11,11 @@ Anyway hope you enjoy learning with this project!
 
 ---------------------------------------------------------------------------------------------------------
 
+Here is a link to my linkedIn where I posted a short video on the project:
+https://www.linkedin.com/posts/joshua-alex-meza_html-css-javascript-activity-7003947153421213697-bQN5?utm_source=share&utm_medium=member_desktop
+
+---------------------------------------------------------------------------------------------------------
+
 DISCLAIMER 
 I used images I found randomly on google and youtube for this projet. 
 Credit goes to those people.
