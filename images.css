@@ -1,0 +1,31 @@
+.thumbnail{
+    width:100%;
+}
+.profilepic {
+    width:34px;
+    height:34px;
+    border-radius: 29px;
+    margin-top:5px;
+    cursor:pointer;
+}
+.hamburger {
+    width:25px;
+    height:23px;
+}
+.youtubelogo {
+    width: 90px;
+    height: 50px;
+    padding-left:8px;
+}
+.upload, .notifications, .apps, .voice, .user-profilepic {
+    width:25px;
+    height:25px;
+}
+.user-profilepic {
+    border-radius: 15px;
+}
+
+.nav-menu-images {
+    width:27px;
+    margin:20px;
+}

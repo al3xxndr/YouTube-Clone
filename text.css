@@ -1,0 +1,37 @@
+.videoparagraphcontainer {
+    padding-left:7px;
+}
+.nav-menu-text {
+    display: flex;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-size: 8px;
+    padding-top: 5px;
+}
+.video-title {
+    font-family: 'Roboto', sans-serif;
+    color: #1e1e1e;
+    font-size: 13px;
+    font-weight: 700;
+}
+.video-creator {
+    display:flex;
+    position: relative;
+    top:-3px;
+    left:2px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+}
+.video-stats {
+    display:flex;
+    position: relative;
+    top:-8px;
+    left:2px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+    
+}
