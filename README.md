@@ -14,6 +14,8 @@ Anyway hope you enjoy learning with this project!
 Here is a link to my linkedIn where I posted a short video on the project:
 https://www.linkedin.com/posts/joshua-alex-meza_html-css-javascript-activity-7003947153421213697-bQN5?utm_source=share&utm_medium=member_desktop
 
+Here is another: https://www.linkedin.com/posts/joshua-alex-meza_youtube-clone-html-css-heres-a-little-activity-7004256869221355520-zo1B?utm_source=share&utm_medium=member_desktop
+
 ---------------------------------------------------------------------------------------------------------
 
 DISCLAIMER 
